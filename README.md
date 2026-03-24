@@ -1,6 +1,6 @@
 Backup LiteLLM v.1.82.2 compromised payloads
 
-Refer issue : ![LiteLLM Issue #24518](https://github.com/BerriAI/litellm/issues/24518)
+Refer issue : [LiteLLM Issue #24518](https://github.com/BerriAI/litellm/issues/24518)
 
 `litellm/proxy/proxy_server.py`
 ```python
